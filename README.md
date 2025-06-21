@@ -99,4 +99,15 @@ Results will be saved in:
 
 We plan to release the full training and dataset curation code soon!
 
+## Citation
+
+If this repo was useful to you, please consider citing our work:
+```
+@inproceedings{sureshcornstack,
+  title={CoRNStack: High-Quality Contrastive Data for Better Code Retrieval and Reranking},
+  author={Suresh, Tarun and Reddy, Revanth Gangi and Xu, Yifei and Nussbaum, Zach and Mulyar, Andriy and Duderstadt, Brandon and Ji, Heng},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
+}
+```
 
